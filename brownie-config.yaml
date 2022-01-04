@@ -1,0 +1,7 @@
+networks:
+  polygon-main-chainstack:
+    miner_contract: "0xf08665261ef76E56e732c711330e905020E445DA"
+  bsc-main:
+    miner_contract: "0xd5d38f1815b4555527de075a584268e08c5909ea"
+  ftm-main:
+    miner_contract: "0x69e7d335e8da617e692d7379e03fef74ef295899"
